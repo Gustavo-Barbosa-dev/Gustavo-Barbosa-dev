@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gustavo Barbosa
--  I’m currently studying JavaScript, Python, Ruby.
+-  I’m currently studying JavaScript, Python.
 -  I’m currently learning SYSTEM ANALYSIS AND DEVELOPMENT at college.
 
 
